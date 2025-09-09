@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Hajimalung",
+      "email": "hajimalung.baba@store360.com",
+      "password": "$2b$10$XUGIy/kKcEMGrF3acMxaa.wV6CDMPvjOv36ruqts4Rgo/1IxoZcje",
+      "createdAt": "2025-09-08T16:32:58.486Z"
+    }
+  ]
+}
